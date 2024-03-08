@@ -50,7 +50,7 @@ int main() {
 		if (Qrooms - Sroom >= quant) {
 			Sroom = Sroom + quant;
 			totalRooms = (totalRooms + quant) * 1200;
-			cout << "\n\n\t\t" << quant << "room/rooms have been alloted to you!";
+			cout << "\n\n\t\t" << quant << " room/rooms have been alloted to you!";
 		}
 		else {
 			cout << "\n\tOnly " << Qrooms - Sroom << " Rooms remaining in hotel";
@@ -63,7 +63,7 @@ int main() {
 		if (Qpastry - Spastry >= quant) {
 			Spastry = Spastry + quant;
 			totalPastry = (totalPastry + quant) * 100;
-			cout << "\n\n\t\t" << quant << "Pastry is the order!";
+			cout << "\n\n\t\t" << quant << " Pastry is the order!";
 		}
 		else {
 			cout << "\n\tOnly " << Qpastry - Spastry << " Pastry remaining in hotel";
@@ -76,7 +76,7 @@ int main() {
 		if (Qbeef - Sbeef >= quant) {
 			Sbeef = Sbeef + quant;
 			totalBeef = (totalBeef + quant) * 250;
-			cout << "\n\n\t\t" << quant << "Beef is the order!";
+			cout << "\n\n\t\t" << quant << " Beef is the order!";
 		}
 		else {
 			cout << "\n\tOnly " << Qbeef - Sbeef << " Beef remaining in hotel";
@@ -89,7 +89,7 @@ int main() {
 		if (Qrice - Srice >= quant) {
 			Srice = Srice + quant;
 			totalRice = (totalRice + quant) * 50;
-			cout << "\n\n\t\t" << quant << "Rice is the order!";
+			cout << "\n\n\t\t" << quant << " Rice is the order!";
 		}
 		else {
 			cout << "\n\tOnly " << Qrice - Srice << " Rice remaining in hotel";
@@ -102,7 +102,7 @@ int main() {
 		if (Qseafood - Sseafood >= quant) {
 			Sseafood = Sseafood + quant;
 			totalSeafood = (totalSeafood + quant) * 275;
-			cout << "\n\n\t\t" << quant << "Seafood is the order!";
+			cout << "\n\n\t\t" << quant << " Seafood is the order!";
 		}
 		else {
 			cout << "\n\tOnly " << Qseafood - Sseafood << " Seafood remaining in hotel";
@@ -115,7 +115,7 @@ int main() {
 		if (Qchicken - Schicken >= quant) {
 			Schicken = Schicken + quant;
 			totalChicken = (totalChicken + quant) * 175;
-			cout << "\n\n\t\t" << quant << "Chicken is the order!";
+			cout << "\n\n\t\t" << quant << " Chicken is the order!";
 		}
 		else {
 			cout << "\n\tOnly " << Qchicken - Schicken << " Chicken remaining in hotel";
