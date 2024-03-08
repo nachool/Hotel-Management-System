@@ -53,7 +53,7 @@ int main() {
 			cout << "\n\n\t\t" << quant << "room/rooms have been alloted to you!";
 		}
 		else {
-			cout << "\n\tOnly" << Qrooms - Sroom << "Rooms remaining in hotel";
+			cout << "\n\tOnly " << Qrooms - Sroom << " Rooms remaining in hotel";
 			break;
 
 	case 2:
@@ -66,7 +66,7 @@ int main() {
 			cout << "\n\n\t\t" << quant << "Pastry is the order!";
 		}
 		else {
-			cout << "\n\tOnly" << Qpastry - Spastry << "Pastry remaining in hotel";
+			cout << "\n\tOnly " << Qpastry - Spastry << " Pastry remaining in hotel";
 			break;
 
 	case 3:
@@ -79,7 +79,7 @@ int main() {
 			cout << "\n\n\t\t" << quant << "Beef is the order!";
 		}
 		else {
-			cout << "\n\tOnly" << Qbeef - Sbeef << "Beef remaining in hotel";
+			cout << "\n\tOnly " << Qbeef - Sbeef << " Beef remaining in hotel";
 			break;
 
 	case 4:
@@ -92,7 +92,7 @@ int main() {
 			cout << "\n\n\t\t" << quant << "Rice is the order!";
 		}
 		else {
-			cout << "\n\tOnly" << Qrice - Srice << "Rice remaining in hotel";
+			cout << "\n\tOnly " << Qrice - Srice << " Rice remaining in hotel";
 			break;
 
 	case 5:
