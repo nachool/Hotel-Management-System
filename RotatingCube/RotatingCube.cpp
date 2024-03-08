@@ -105,7 +105,7 @@ int main() {
 			cout << "\n\n\t\t" << quant << "Seafood is the order!";
 		}
 		else {
-			cout << "\n\tOnly" << Qseafood - Sseafood << "Seafood remaining in hotel";
+			cout << "\n\tOnly " << Qseafood - Sseafood << " Seafood remaining in hotel";
 			break;
 
 	case 6:
