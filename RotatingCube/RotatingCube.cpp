@@ -37,7 +37,7 @@ int main() {
 	cout << "\n7) Information regarding sales and collection";
 	cout << "\n8) Exit";
 
-	cout << "\n\n Please enter your choice!";
+	cout << "\n\n Please enter your choice! ";
 	cin >> choice;
 
 	//switch case 
