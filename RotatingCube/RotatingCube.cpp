@@ -118,7 +118,7 @@ int main() {
 			cout << "\n\n\t\t" << quant << "Chicken is the order!";
 		}
 		else {
-			cout << "\n\tOnly" << Qchicken - Schicken << "Chicken remaining in hotel";
+			cout << "\n\tOnly " << Qchicken - Schicken << " Chicken remaining in hotel";
 			break;
 
 	case 7:
