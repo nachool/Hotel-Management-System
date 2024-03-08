@@ -13,17 +13,17 @@ int main() {
 	//holds the total price each items
 
 	cout << "\n\t Quantity of items we have";
-	cout << "\n Rooms available";
+	cout << "\n Rooms available: ";
 	cin >> Qrooms;
-	cout << "\n Quantiry of pastry";
+	cout << "\n Quantiry of pastry: ";
 	cin >> Qpastry;
-	cout << "\n Quantiry of beef";
+	cout << "\n Quantiry of beef: ";
 	cin >> Qbeef;
-	cout << "\n Quantiry of rice";
+	cout << "\n Quantiry of rice: ";
 	cin >> Qrice;
-	cout << "\n Quantiry of seafood";
+	cout << "\n Quantiry of seafood: ";
 	cin >> Qseafood;
-	cout << "\n Quantiry of chicken";
+	cout << "\n Quantiry of chicken: ";
 	cin >> Qchicken;
 
 	m:
